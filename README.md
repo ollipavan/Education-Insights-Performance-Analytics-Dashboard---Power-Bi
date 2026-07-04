@@ -1,2 +1,6 @@
+# 🛒 Education Insights & Performance Analytics Report
 
-<img width="897" height="1691" alt="image" src="https://github.com/user-attachments/assets/103b8640-3249-4df5-82cd-edd4bb2abcab" />
+
+## Report Preview
+ 
+<img width="897" height="1691" alt="image" src="https://github.com/user-attachments/assets/27f4869f-0ada-4c52-a667-90975422f1f1" />

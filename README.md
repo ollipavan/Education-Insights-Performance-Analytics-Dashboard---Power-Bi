@@ -33,8 +33,6 @@ The dataset is hierarchical (**District → Block → School → Student**) and 
 *Infrastructure, HR and district-level school distribution overview*
 
 <img width="881" height="498" alt="image" src="https://github.com/user-attachments/assets/5e5dde72-86c5-408a-acaf-97c4ec0ee780" />
-<img width="885" height="491" alt="image" src="https://github.com/user-attachments/assets/95233f09-0c95-4b12-842a-0f81c51c94b0" />
-<img width="861" height="482" alt="image" src="https://github.com/user-attachments/assets/ece7e623-9070-4a98-8c77-3fe7a967d602" />
 
 
 **Filters:** District, Block, School, School Management, School Category, Session Type
@@ -58,7 +56,7 @@ The dataset is hierarchical (**District → Block → School → Student**) and 
 ### 2️⃣ School Assessment Performance Dashboard
 *Learning-outcome (LO) level analysis of student assessments*
 
-![School Assessment Performance Dashboard](assets/dashboard-assessment-performance.png)
+<img width="885" height="491" alt="image" src="https://github.com/user-attachments/assets/95233f09-0c95-4b12-842a-0f81c51c94b0" />
 
 **Filters:** District, Block, School, School Management, Grade, Subject
 
@@ -78,7 +76,7 @@ The dataset is hierarchical (**District → Block → School → Student**) and 
 ### 3️⃣ School Attendance Monitoring Dashboard
 *Daily attendance capture health + infrastructure pillar breakdown*
 
-![School Attendance Monitoring Dashboard](assets/dashboard-attendance-monitoring.png)
+<img width="861" height="482" alt="image" src="https://github.com/user-attachments/assets/ece7e623-9070-4a98-8c77-3fe7a967d602" />
 
 **Filters:** District, Block, School, School Management, School Category, Session Type
 

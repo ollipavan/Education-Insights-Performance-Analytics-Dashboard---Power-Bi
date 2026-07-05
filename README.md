@@ -1,4 +1,4 @@
-# 📊 Education Management System (EMS) Analytics — Power BI Project
+# 📊 Education-Analytics-Dashboard-PowerBI
 
 An end-to-end analytics project built on a state-scale school education dataset (**9,032 schools, 19,903 teachers, 1,52,371+ students** across multiple districts and blocks). The raw data was cleaned in **Excel**, explored and aggregated using **SQL**, and visualized through **three interconnected Power BI dashboards** covering infrastructure/HR analytics, learning assessment performance, and daily attendance monitoring.
 

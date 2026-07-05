@@ -117,16 +117,6 @@ Reading all three dashboards together surfaces a insight that no single dashboar
 - Weighted infrastructure pillar scoring (Academic / ICT / Labs / Building / Sanitation)
 - Hierarchical drill-through: District → Block → School
 
-## 📂 Repository Structure
-```
-├── assets/
-│   ├── dashboard-analytics-overview.png
-│   ├── dashboard-assessment-performance.png
-│   └── dashboard-attendance-monitoring.png
-├── sql/               # EDA queries (aggregation, ranking, retirement cohort)
-├── powerbi/           # .pbix file(s)
-└── README.md
-```
 
 ## 🚀 How to Use
 1. Open the `.pbix` file in Power BI Desktop (requires Power BI Desktop, latest version).
